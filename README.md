@@ -1,4 +1,4 @@
-#demo
+# demo
 This project aims to create a modern and user-friendly website for , catering to the needs of students, parents, and faculty members.
 The website will serve as a centralized platform for accessing school-related information, resources, and announcements
 Homepage: Welcome visitors with an overview of the school, upcoming events, and important announcements.
